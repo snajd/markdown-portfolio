@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# olika läsker
+1. must
+  i. påskmust
+  ii. julmust
+2. color
+  * coca
+  * jolt
+  * :heart: julmust
